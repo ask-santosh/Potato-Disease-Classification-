@@ -8,3 +8,5 @@
 2. Backend Server and ML Ops: tf serving, FastAPI
 3. Model Optimization: Quantization, Tensorflow
 4. Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
+
+![image]()
