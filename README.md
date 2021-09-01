@@ -9,4 +9,4 @@
 3. Model Optimization: Quantization, Tensorflow
 4. Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
 
-![image]("https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.45.15%20PM.png")
+![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.45.15%20PM.png)
