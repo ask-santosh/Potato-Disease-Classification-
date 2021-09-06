@@ -27,3 +27,4 @@
 2. Change your folder path in code .
 3. run training.py file .
 4. You can change batch size and epochs as per your requirements.
+5. Run main.py file for FastAPI and test it through Postman.
