@@ -12,5 +12,11 @@
 ### Model Structure
 
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.45.15%20PM.png)
+
+### Training Graph
+
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.44.59%20PM.png)
+
+### Predicted Output
+
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.44.46%20PM.png)
