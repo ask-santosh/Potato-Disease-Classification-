@@ -20,3 +20,10 @@
 ### Predicted Output
 
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.44.46%20PM.png)
+
+### Running The Program
+
+1. Place all the leaf images in PlantImages folder and images are available in kaggle website.
+2. Change your folder path in code .
+3. run training.py file .
+4. You can change batch size and epochs as per your requirements.
