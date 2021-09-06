@@ -5,7 +5,7 @@
  
  ### Technology Stack
 1. Model Building: tensorflow, CNN, data augmentation, tf dataset
-2. Backend Server and ML Ops: tf serving, FastAPI
+2. Backend Server and ML Ops: tf serving, FastAPI, Postman
 3. Model Optimization: Quantization, Tensorflow
 4. Deployment: GCP (Google cloud platform, GCF (Google cloud functions)
 
