@@ -17,6 +17,8 @@
 
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.44.59%20PM.png)
 
+After training I got the loss=0.0329 , accuracy=0.9884, validation loss= 0.2217, validation accuracy= 0.9427
+
 ### Predicted Output
 
 ![image](https://github.com/ask-santosh/Potato-Disease-Classification-/blob/main/Screenshot%202021-08-30%20at%209.44.46%20PM.png)
