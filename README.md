@@ -32,3 +32,6 @@ After training I got the loss=0.0329 , accuracy=0.9884, validation loss= 0.2217,
 3. run training.py file .
 4. You can change batch size and epochs as per your requirements.
 5. Run main.py file for FastAPI and test it through Postman.
+
+
+### Deployment To GCP(Google Cloud Platform)
