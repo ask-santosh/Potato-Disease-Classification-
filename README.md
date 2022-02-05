@@ -35,3 +35,7 @@ After training I got the loss=0.0329 , accuracy=0.9884, validation loss= 0.2217,
 
 
 ### Deployment To GCP(Google Cloud Platform)
+
+1. Create a GCP account.
+2. Deploy the model to GCP using google cloud function(GCF).
+3. Create a link of that GCF model and by using postman test with your images.
